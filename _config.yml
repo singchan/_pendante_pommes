@@ -30,6 +30,7 @@ defaults:
     values:
       categories: ""
 
+
 # Stastic UI
 remote_theme_layouts: 
   - ""
