@@ -17,10 +17,10 @@ A simple and elegant theme for Jekyll and GitHub Pages.
 ## Themes
 This theme comes in two color variations. The default is set to the `light` theme. To change the theme color, add `theme_color:` to your `config.yml` file with the color you wish to use. Example: `theme_color: dark`.
 
-<!-- | Config setting | Thumbnail |
+| Config setting | Thumbnail |
 | --- | --- |
 | `theme_color: black` | <img width="330" alt="black" src="url"> |
-| `theme_color: red` | <img width="330" alt="red" src="url"> | -->
+| `theme_color: red` | <img width="330" alt="red" src="url"> |
 
 
 ## Installation
