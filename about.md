@@ -19,8 +19,8 @@ This theme comes in two color variations. The default is set to the `light` them
 
 | Config setting | Thumbnail |
 | --- | --- |
-| `theme_color: black` | <img width="330" alt="black" src="url"> |
-| `theme_color: red` | <img width="330" alt="red" src="url"> |
+| `theme_color: black` | `<img width="330" alt="black" src="url">` |
+| `theme_color: red` | `<img width="330" alt="red" src="url">` |
 
 
 ## Installation
